@@ -10,7 +10,7 @@ export const EVENT_DETAILS = {
   eventDate: '14/10/2026',
   eventDateFormatted: 'October 14, 2026',
   eventDateWithDay: 'October 14, 2026 (Wednesday)',
-  registrationDeadline: '12/10/2026',
+  registrationDeadline: '13/10/2026',
   ideathonDuration: '8 Hours Continuous Sprint',
   ideathonTime: '9:00 AM – 5:00 PM',
   feePerParticipant: 250,

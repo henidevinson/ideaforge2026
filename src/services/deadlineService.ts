@@ -1,11 +1,11 @@
 import { useState, useEffect } from 'react';
 
-const DEADLINE_STORAGE_KEY = 'ideaforge_registration_deadline_v2';
+const DEADLINE_STORAGE_KEY = 'ideaforge_registration_deadline_v3';
 const SIMULATED_CLOSED_KEY = 'ideaforge_simulated_closed';
 
-// Target Deadline: 12/10/2026 (October 12, 2026 at 23:59:59)
-export const DEFAULT_DEADLINE_ISO = '2026-10-12T23:59:59';
-export const DISPLAY_DEADLINE_DATE = '12/10/2026';
+// Target Deadline: 13/10/2026 (October 13, 2026 at 23:59:59)
+export const DEFAULT_DEADLINE_ISO = '2026-10-13T23:59:59';
+export const DISPLAY_DEADLINE_DATE = '13/10/2026';
 export const DISPLAY_DEADLINE_TIME = '11:59:59 PM';
 
 export interface TimeRemaining {
